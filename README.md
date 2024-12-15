@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou Bernardo A. Soder 👋
 
-<!--
-**BernardoSoder/bernardosoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cursando Técnico em Informática** no SENAC  
+💻 **Estudando Desenvolvimento Web** com foco em **ASP.NET** e **JavaScript**, com conhecimento adicional em **PHP**  
+⚙️ **Estudando .NET Core**, **.NET Framework**, **Windows Forms** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+- **ASP.NET (MVC)** ⚙️  
+- **JavaScript** 📜  
+- **PHP** 🔧  
+- **Visual Studio** 🖥️, **Visual Studio Code** 💻, **Git** 🧑‍💻
+
+---
+
+## 📬 Contato
+
+- **LinkedIn**: [linkedin.com/in/bernardo-soder](https://www.linkedin.com/in/bernardo-soder/)  
+- **Email**: [bernardoasoder@gmail.com](mailto:bernardoasoder@gmail.com)
+
+---
+
+## 📊 Stats
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bernardosoder&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosoder&langs_count=10&layout=compact)
