@@ -2,7 +2,7 @@
 
 🎓 **Cursando Técnico em Informática** no SENAC  
 💻 **Estudando Desenvolvimento Web** com foco em **ASP.NET** e **JavaScript**, com conhecimento adicional em **PHP**  
-⚙️ **Estudando .NET Core**, **.NET Framework**, **Windows Forms** 
+⚙️ **Estudando .NET Core**, **.NET Framework**, **Windows Forms e outros** 
 
 ---
 
