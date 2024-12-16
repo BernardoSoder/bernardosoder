@@ -23,7 +23,7 @@
 
 ---
 
-## 📊 Stats
+## 📊 Linguagens mais usadas e estatísticas
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosoder&langs_count=10&layout=compact)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bernardosoder&show_icons=true&hide_title=true&count_private=true&hide=prs)
