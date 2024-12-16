@@ -10,7 +10,7 @@
 
 - **ASP.NET (MVC)** ⚙️
 - **Windows Forms (WF)** ⚙️
-- **JavaScript** 📜  
+- **JavaScript e CSS** 📜  
 - **PHP** 🔧  
 - **Visual Studio** 🖥️, **Visual Studio Code** 💻, **Git** 🧑‍💻
 
