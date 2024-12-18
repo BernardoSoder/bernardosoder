@@ -9,7 +9,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 - **ASP.NET (MVC)** ⚙️
-- **Windows Forms (WF)** ⚙️
+- **Windows Forms** ⚙️
 - **JavaScript e CSS** 📜  
 - **C# e PHP** 🔧  
 - **Visual Studio** 🖥️, **Visual Studio Code** 🌐, **Github** 😺
