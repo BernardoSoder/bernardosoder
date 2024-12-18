@@ -12,7 +12,7 @@
 - **Windows Forms** ⚙️
 - **JavaScript e CSS** 📜  
 - **C# e PHP** 🔧  
-- **Visual Studio** 🖥️, **Visual Studio Code** 🌐, **Github** 😺
+- **Visual Studio** 🖥️, **Visual Studio Code** 🌐, **Github** 👾
 
 ---
 
