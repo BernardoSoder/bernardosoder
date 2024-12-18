@@ -11,8 +11,8 @@
 - **ASP.NET (MVC)** ⚙️
 - **Windows Forms (WF)** ⚙️
 - **JavaScript e CSS** 📜  
-- **PHP** 🔧  
-- **Visual Studio** 🖥️, **Visual Studio Code** 💻, **Git** 🧑‍💻
+- **C# e PHP** 🔧  
+- **Visual Studio** 🖥️, **Visual Studio Code** 🌐, **Git** 😺
 
 ---
 
